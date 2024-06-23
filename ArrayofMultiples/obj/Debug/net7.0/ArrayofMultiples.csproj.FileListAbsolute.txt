@@ -1,0 +1,14 @@
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/bin/Debug/net7.0/ArrayofMultiples
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/bin/Debug/net7.0/ArrayofMultiples.deps.json
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/bin/Debug/net7.0/ArrayofMultiples.runtimeconfig.json
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/bin/Debug/net7.0/ArrayofMultiples.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/bin/Debug/net7.0/ArrayofMultiples.pdb
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.AssemblyInfoInputs.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.AssemblyInfo.cs
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.csproj.CoreCompileInputs.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/refint/ArrayofMultiples.dll
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.pdb
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ArrayofMultiples.genruntimeconfig.cache
+/Users/slawomirpokuta/Desktop/studia/praca/portfolio/medium/ArrayofMultiples/ArrayofMultiples/obj/Debug/net7.0/ref/ArrayofMultiples.dll
